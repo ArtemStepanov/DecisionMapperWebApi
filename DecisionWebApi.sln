@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionWebApi", "DecisionWebApi\DecisionWebApi.csproj", "{62FAC59E-E457-4170-9DFA-FBE99DC24F6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionWebApi.Test", "DecisionWebApi.Test\DecisionWebApi.Test.csproj", "{5695F732-AE1D-4499-8D92-FD1428012CA1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +13,5 @@ Global
 		{62FAC59E-E457-4170-9DFA-FBE99DC24F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62FAC59E-E457-4170-9DFA-FBE99DC24F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62FAC59E-E457-4170-9DFA-FBE99DC24F6E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5695F732-AE1D-4499-8D92-FD1428012CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5695F732-AE1D-4499-8D92-FD1428012CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5695F732-AE1D-4499-8D92-FD1428012CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5695F732-AE1D-4499-8D92-FD1428012CA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
